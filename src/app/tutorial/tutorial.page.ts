@@ -8,10 +8,7 @@ import { Router } from '@angular/router';
 })
 export class TutorialPage implements OnInit {
 
-  constructor(private router: Router) { }
-
-  async navTabs(){
-  }
+  constructor() { }
 
   ngOnInit() {
   }
